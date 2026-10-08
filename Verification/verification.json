@@ -1,0 +1,269 @@
+{
+  "success": true,
+  "game": "v0.7.15\u002B21883",
+  "unity": "6000.0.82f1",
+  "audioMuted": true,
+  "isolatedMemoryOnly": true,
+  "nativeNewLeader": true,
+  "existingLeaderMigration": true,
+  "nativeSaveRoundTrip": true,
+  "savedPerk": "perk.zero_in_starting",
+  "savedTierThreePerk": "perk.steady_gun",
+  "initialSaveBytes": 590,
+  "learnedSaveBytes": 647,
+  "tierThree": {
+    "id": "perk.clover_dublin_rooftops",
+    "tier": 3,
+    "available": true,
+    "grantedOnRecruitment": false,
+    "title": "Dublin Rooftops",
+    "quote": "She took a steady aim.",
+    "description": "\u0022She took a steady aim.\u0022\n\n\u2022 Clover\u0027s squad gains \u002B10 percentage points to hit chance with sniper rifles until it moves during its turn.\n\u2022 While the squad has not moved this turn, sniper rifle hit chance cannot fall below 50%.\n\u2022 After movement, both effects are lost until the squad\u0027s next turn.\n\u2022 Sniper rifles do not receive the Sniper\u0027s Promise bonus.",
+    "iconWidth": 1254,
+    "iconHeight": 1254,
+    "choices": [
+      "perk.ambush",
+      "perk.take_aim",
+      "perk.minimize_silhouette",
+      "perk.critical_hits",
+      "perk.clover_dublin_rooftops"
+    ],
+    "nativeLearning": true,
+    "existingTakeAimUnchanged": true
+  },
+  "nativeHitChance": [
+    {
+      "label": "unlearned sniper unchanged",
+      "accuracy": 60,
+      "moved": 0,
+      "result": 60,
+      "preview": 60,
+      "expected": 60
+    },
+    {
+      "label": "unlearned sniper has no floor",
+      "accuracy": 5,
+      "moved": 0,
+      "result": 5,
+      "preview": 5,
+      "expected": 5
+    },
+    {
+      "label": "primary stationary \u002B15",
+      "accuracy": 50,
+      "moved": 0,
+      "result": 65,
+      "preview": 65,
+      "expected": 65
+    },
+    {
+      "label": "primary stationary floor 30",
+      "accuracy": 5,
+      "moved": 0,
+      "result": 30,
+      "preview": 30,
+      "expected": 30
+    },
+    {
+      "label": "primary moved no \u002B15",
+      "accuracy": 50,
+      "moved": 1,
+      "result": 50,
+      "preview": 50,
+      "expected": 50
+    },
+    {
+      "label": "primary moved no floor",
+      "accuracy": 5,
+      "moved": 1,
+      "result": 5,
+      "preview": 5,
+      "expected": 5
+    },
+    {
+      "label": "primary next turn bonus returns",
+      "accuracy": 50,
+      "moved": 0,
+      "result": 65,
+      "preview": 65,
+      "expected": 65
+    },
+    {
+      "label": "primary next turn floor returns",
+      "accuracy": 5,
+      "moved": 0,
+      "result": 30,
+      "preview": 30,
+      "expected": 30
+    },
+    {
+      "label": "primary maximum 100",
+      "accuracy": 95,
+      "moved": 0,
+      "result": 100,
+      "preview": 100,
+      "expected": 100
+    },
+    {
+      "label": "special weapon unchanged",
+      "accuracy": 5,
+      "moved": 0,
+      "result": 5,
+      "preview": 5,
+      "expected": 5
+    },
+    {
+      "label": "sniper stationary exclusive \u002B10",
+      "accuracy": 60,
+      "moved": 0,
+      "result": 70,
+      "preview": 70,
+      "expected": 70
+    },
+    {
+      "label": "sniper stationary floor 50",
+      "accuracy": 5,
+      "moved": 0,
+      "result": 50,
+      "preview": 50,
+      "expected": 50
+    },
+    {
+      "label": "sniper moved no \u002B10",
+      "accuracy": 60,
+      "moved": 1,
+      "result": 60,
+      "preview": 60,
+      "expected": 60
+    },
+    {
+      "label": "sniper moved no floor",
+      "accuracy": 5,
+      "moved": 1,
+      "result": 5,
+      "preview": 5,
+      "expected": 5
+    },
+    {
+      "label": "sniper next turn bonus returns",
+      "accuracy": 60,
+      "moved": 0,
+      "result": 70,
+      "preview": 70,
+      "expected": 70
+    },
+    {
+      "label": "sniper next turn floor returns",
+      "accuracy": 5,
+      "moved": 0,
+      "result": 50,
+      "preview": 50,
+      "expected": 50
+    },
+    {
+      "label": "sniper maximum 100",
+      "accuracy": 95,
+      "moved": 0,
+      "result": 100,
+      "preview": 100,
+      "expected": 100
+    },
+    {
+      "label": "native rifle: specialweapon.rogue_army_sniper_rifle",
+      "accuracy": 60,
+      "moved": 0,
+      "result": 70,
+      "preview": 70,
+      "expected": 70
+    },
+    {
+      "label": "native rifle: specialweapon.sniper_rifle_sr41",
+      "accuracy": 60,
+      "moved": 0,
+      "result": 70,
+      "preview": 70,
+      "expected": 70
+    },
+    {
+      "label": "native rifle: specialweapon.sniper_rifle_tier1",
+      "accuracy": 60,
+      "moved": 0,
+      "result": 70,
+      "preview": 70,
+      "expected": 70
+    },
+    {
+      "label": "native rifle: specialweapon.sniper_rifle_tier3",
+      "accuracy": 60,
+      "moved": 0,
+      "result": 70,
+      "preview": 70,
+      "expected": 70
+    },
+    {
+      "label": "learned tier 3 primary still \u002B15",
+      "accuracy": 50,
+      "moved": 0,
+      "result": 65,
+      "preview": 65,
+      "expected": 65
+    },
+    {
+      "label": "learned tier 3 special still unchanged",
+      "accuracy": 5,
+      "moved": 0,
+      "result": 5,
+      "preview": 5,
+      "expected": 5
+    },
+    {
+      "label": "other leader unchanged",
+      "accuracy": 50,
+      "moved": 0,
+      "result": 50,
+      "preview": 50,
+      "expected": 50
+    }
+  ],
+  "customLookup": true,
+  "originalUnchanged": "Zero In",
+  "title": "Sniper\u0027s Promise",
+  "description": "\u0022The night was icy cold I stood along\nI was waiting for an army foot patrol\nAnd when at last they came into my site\nI squeezed the trigger of my armalite\u0022\n\n\u2022 Clover\u0027s squad gains \u002B15 percentage points to hit chance with primary weapons, excluding sniper rifles, until it moves during its turn.\n\u2022 While the squad has not moved this turn, primary weapon hit chance cannot fall below 30%. Sniper rifles and special weapons are excluded.\n\u2022 After movement, both the \u002B15 bonus and the 30% minimum are lost until the squad\u0027s next turn.",
+  "id": "perk.clover_snipers_promise",
+  "initialPerk": "perk.clover_snipers_promise",
+  "icon": {
+    "name": "perk.clover_snipers_promise",
+    "width": 1254,
+    "height": 1254
+  },
+  "sniperWeapons": [
+    {
+      "id": "specialweapon.rogue_army_sniper_rifle",
+      "tags": [],
+      "skills": [
+        "active.aimed_shot"
+      ]
+    },
+    {
+      "id": "specialweapon.sniper_rifle_sr41",
+      "tags": [],
+      "skills": [
+        "active.aimed_shot"
+      ]
+    },
+    {
+      "id": "specialweapon.sniper_rifle_tier1",
+      "tags": [],
+      "skills": [
+        "active.aimed_shot"
+      ]
+    },
+    {
+      "id": "specialweapon.sniper_rifle_tier3",
+      "tags": [],
+      "skills": [
+        "active.aimed_shot"
+      ]
+    }
+  ]
+}

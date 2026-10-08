@@ -1,0 +1,847 @@
+{
+  "success": true,
+  "initialPerks": 22,
+  "additionalNativeSaveRoundTrips": 21,
+  "nativeTemplates": [
+    {
+      "name": "Ash",
+      "id": "perk.waybackers_ash",
+      "title": "Ashwake Vendetta",
+      "quote": "I buried my family. I did not bury the debt.",
+      "description": "\u0022I buried my family. I did not bury the debt.\u0022\n\n\u002B15 percentage points to hit chance and \u002B10% direct damage against pirates.",
+      "saveBytes": 588,
+      "iconWidth": 1233,
+      "iconHeight": 1275,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Bulk",
+      "id": "perk.waybackers_bulk",
+      "title": "Extra Ballistic Protection",
+      "quote": "It\u0027s not extra weight. It\u0027s extra ballistic protection.",
+      "description": "\u0022It\u0027s not extra weight. It\u0027s extra ballistic protection.\u0022\n\n\u002B10% squad member hit points. With a machine gun equipped, incoming suppression is reduced by 15%.",
+      "saveBytes": 578,
+      "iconWidth": 1152,
+      "iconHeight": 1365,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Caleb",
+      "id": "perk.waybackers_caleb",
+      "title": "Hold the Line",
+      "quote": "The readiness is all.",
+      "description": "\u0022The readiness is all.\u0022\n\nWhile in cover and before moving this turn: \u002B10 percentage points to primary weapon hit chance and 20% less incoming suppression.",
+      "saveBytes": 583,
+      "iconWidth": 1199,
+      "iconHeight": 1312,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Camila",
+      "id": "perk.waybackers_camila",
+      "title": "Contract Kill",
+      "quote": "One round. One invoice.",
+      "description": "\u0022One round. One invoice.\u0022\n\nThe first sniper attack each turn gains \u002B10 percentage points to hit chance and \u002B15% direct damage. A miss also spends the bonus; movement does not.",
+      "saveBytes": 605,
+      "iconWidth": 1145,
+      "iconHeight": 1374,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Creed",
+      "id": "perk.waybackers_creed",
+      "title": "Old Drill",
+      "quote": "This uniform has outlived better men than you.",
+      "description": "\u0022This uniform has outlived better men than you.\u0022\n\n\u002B10 discipline. The first primary weapon attack each turn costs 10% fewer action points.",
+      "saveBytes": 590,
+      "iconWidth": 1199,
+      "iconHeight": 1312,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Crow",
+      "id": "perk.waybackers_crow",
+      "title": "Frontier Watch",
+      "quote": "Out here, the horizon is the only warning you get.",
+      "description": "\u0022Out here, the horizon is the only warning you get.\u0022\n\n\u002B1 vision range. Deploying the squad costs 10% fewer supplies.",
+      "saveBytes": 590,
+      "iconWidth": 1199,
+      "iconHeight": 1312,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Darius",
+      "id": "perk.waybackers_darius",
+      "title": "First Through the Breach",
+      "quote": "Once more unto the breach, dear friends, once more.",
+      "description": "\u0022Once more unto the breach, dear friends, once more.\u0022\n\nThe first attack each turn, if its target is within 3 tiles, deals \u002B20% direct damage and \u002B25% suppression.",
+      "saveBytes": 604,
+      "iconWidth": 1145,
+      "iconHeight": 1374,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Don",
+      "id": "perk.waybackers_don",
+      "title": "Protective Detail",
+      "quote": "The client goes home. That\u0027s the job.",
+      "description": "\u0022The client goes home. That\u0027s the job.\u0022\n\nOther friendly infantry squads within 2 tiles take 10% less direct damage. Don does not receive his own protection; identical auras do not stack.",
+      "saveBytes": 588,
+      "iconWidth": 1147,
+      "iconHeight": 1371,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Lucky",
+      "id": "perk.waybackers_lucky",
+      "title": "Long Haul",
+      "quote": "Bad road. Good driver. We\u0027ll get there.",
+      "description": "\u0022Bad road. Good driver. We\u0027ll get there.\u0022\n\nVehicle movement through costly terrain uses 20% fewer action points, never less than the normal terrain cost.",
+      "saveBytes": 564,
+      "iconWidth": 1163,
+      "iconHeight": 1352,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Luo",
+      "id": "perk.waybackers_luo",
+      "title": "By the Book",
+      "quote": "Orders first. Opinions later.",
+      "description": "\u0022Orders first. Opinions later.\u0022\n\nWhile another friendly infantry squad is within 3 tiles: \u002B10 discipline and \u002B5 percentage points to primary weapon hit chance.",
+      "saveBytes": 593,
+      "iconWidth": 1145,
+      "iconHeight": 1374,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Lynx",
+      "id": "perk.waybackers_lynx",
+      "title": "Silent Observer",
+      "quote": "The less they see, the more I know.",
+      "description": "\u0022The less they see, the more I know.\u0022\n\n\u002B1 camouflage and \u002B1 detection range. Attacks from concealment gain \u002B10 percentage points to hit chance.",
+      "saveBytes": 592,
+      "iconWidth": 1199,
+      "iconHeight": 1312,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Marcus",
+      "id": "perk.waybackers_marcus",
+      "title": "Room Service",
+      "quote": "Knock once. Clear twice.",
+      "description": "\u0022Knock once. Clear twice.\u0022\n\nPrimary weapon attacks within 3 tiles gain \u002B10 percentage points to hit chance and cost 10% fewer action points.",
+      "saveBytes": 592,
+      "iconWidth": 1220,
+      "iconHeight": 1289,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Markov",
+      "id": "perk.waybackers_markov",
+      "title": "Measured Bursts",
+      "quote": "Short bursts. Long day.",
+      "description": "\u0022Short bursts. Long day.\u0022\n\nMachine guns deal \u002B50% suppression. Before moving this turn, machine gun attacks gain \u002B10 percentage points to hit chance.",
+      "saveBytes": 590,
+      "iconWidth": 1199,
+      "iconHeight": 1312,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Null",
+      "id": "perk.waybackers_null",
+      "title": "Settle the Account",
+      "quote": "Nothing will come of nothing.",
+      "description": "\u0022Nothing will come of nothing.\u0022\n\nDeal \u002B15% direct damage to targets below 50% hit points. The first kill each turn refunds 20 action points.",
+      "saveBytes": 593,
+      "iconWidth": 1161,
+      "iconHeight": 1355,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Rook",
+      "id": "perk.waybackers_rook",
+      "title": "Combat Driver",
+      "quote": "Cargo doesn\u0027t care who\u0027s shooting.",
+      "description": "\u0022Cargo doesn\u0027t care who\u0027s shooting.\u0022\n\nVehicle turns and reversing cost 25% fewer action points. The first shot after a turn this turn gains \u002B10 percentage points to hit chance.",
+      "saveBytes": 563,
+      "iconWidth": 1145,
+      "iconHeight": 1374,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Sigrid",
+      "id": "perk.waybackers_sigrid",
+      "title": "Still Breathing",
+      "quote": "If you can complain, you can survive.",
+      "description": "\u0022If you can complain, you can survive.\u0022\n\nRetains First Aid healing for own squad and friendly squad leaders, including its normal use limits. Costs 25% fewer action points. The treated unit takes 20% less suppression until the end of its next turn.",
+      "saveBytes": 583,
+      "iconWidth": 1145,
+      "iconHeight": 1374,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": true,
+      "uses": 2,
+      "handlers": 3
+    },
+    {
+      "name": "Talia",
+      "id": "perk.waybackers_talia",
+      "title": "My Way",
+      "quote": "I have my own way of following orders.",
+      "description": "\u0022I have my own way of following orders.\u0022\n\nAfter the first attack each turn, the next 2 movement tiles cost 25% fewer action points. Unused movement expires at the end of the turn.",
+      "saveBytes": 581,
+      "iconWidth": 1151,
+      "iconHeight": 1367,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Track",
+      "id": "perk.waybackers_track",
+      "title": "Steel Routine",
+      "quote": "Steel remembers what men forget.",
+      "description": "\u0022Steel remembers what men forget.\u0022\n\nBefore moving this turn, vehicle guns gain \u002B10 percentage points to hit chance and \u002B15% armor penetration.",
+      "saveBytes": 559,
+      "iconWidth": 1157,
+      "iconHeight": 1359,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Vale",
+      "id": "perk.waybackers_vale",
+      "title": "Live to Walk Away",
+      "quote": "The better part of valour is discretion.",
+      "description": "\u0022The better part of valour is discretion.\u0022\n\nAfter taking direct damage, the next 2 movement tiles cost 25% fewer action points, through the end of the next own turn. Further hits refresh this benefit without stacking.",
+      "saveBytes": 592,
+      "iconWidth": 1199,
+      "iconHeight": 1312,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Viper",
+      "id": "perk.waybackers_viper",
+      "title": "Cobra\u0027s Step",
+      "quote": "Precision is not patience. Precision is control.",
+      "description": "\u0022Precision is not patience. Precision is control.\u0022\n\nWalkers spend 2 fewer action points per movement tile. The first attack after moving each turn gains \u002B10 percentage points to hit chance.",
+      "saveBytes": 559,
+      "iconWidth": 1142,
+      "iconHeight": 1377,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    },
+    {
+      "name": "Voss",
+      "id": "perk.waybackers_voss",
+      "title": "Let It Burn",
+      "quote": "Hell is empty, and all the devils are here.",
+      "description": "\u0022Hell is empty, and all the devils are here.\u0022\n\nInfantry flamethrower attacks deal \u002B20% direct damage and \u002B25% suppression. Does not alter damage from fire left on the ground.",
+      "saveBytes": 593,
+      "iconWidth": 1145,
+      "iconHeight": 1374,
+      "nativeMigration": true,
+      "nativeSaveRoundTrip": true,
+      "active": false,
+      "uses": 1,
+      "handlers": 0
+    }
+  ],
+  "cases": [
+    {
+      "name": "native pirate faction",
+      "actual": 6,
+      "expected": 6
+    },
+    {
+      "name": "Ash pirates immediate",
+      "actual": 65,
+      "expected": 65
+    },
+    {
+      "name": "Ash pirates preview",
+      "actual": 65,
+      "expected": 65
+    },
+    {
+      "name": "Ash nonpirates immediate",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Ash nonpirates preview",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Camila first sniper immediate",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Camila first sniper preview",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Camila subsequent sniper immediate",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Camila subsequent sniper preview",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Camila next turn immediate",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Camila next turn preview",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Camila movement allowed immediate",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Camila movement allowed preview",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Markov stationary immediate",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Markov stationary preview",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Markov moved immediate",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Markov moved preview",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Markov rifle excluded immediate",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Markov rifle excluded preview",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Marcus close immediate",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Marcus close preview",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Marcus far immediate",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Marcus far preview",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Luo near allies immediate",
+      "actual": 55,
+      "expected": 55
+    },
+    {
+      "name": "Luo near allies preview",
+      "actual": 55,
+      "expected": 55
+    },
+    {
+      "name": "Luo isolated immediate",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Luo isolated preview",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Caleb in cover immediate",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Caleb in cover preview",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Caleb cover after move immediate",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Caleb cover after move preview",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Caleb suppression protection",
+      "actual": 0.8,
+      "expected": 0.8
+    },
+    {
+      "name": "Track stationary gun immediate",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Track stationary gun preview",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Track moved gun immediate",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Track moved gun preview",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Viper first moved gun immediate",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Viper first moved gun preview",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Viper consumed moved gun immediate",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Viper consumed moved gun preview",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Rook first after turn immediate",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Rook first after turn preview",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Rook turn bonus consumed immediate",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Rook turn bonus consumed preview",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Bulk max HP",
+      "actual": 110,
+      "expected": 110
+    },
+    {
+      "name": "Creed discipline",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Crow vision",
+      "actual": 5,
+      "expected": 5
+    },
+    {
+      "name": "Crow deploy cost",
+      "actual": 0.9,
+      "expected": 0.9
+    },
+    {
+      "name": "Lynx camouflage",
+      "actual": 3,
+      "expected": 3
+    },
+    {
+      "name": "Lynx detection",
+      "actual": 3,
+      "expected": 3
+    },
+    {
+      "name": "Creed native AP cost",
+      "actual": 36,
+      "expected": 36
+    },
+    {
+      "name": "Marcus cost aim immediate",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Marcus cost aim preview",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Marcus native AP cost",
+      "actual": 36,
+      "expected": 36
+    },
+    {
+      "name": "Sigrid native AP cost",
+      "actual": 8,
+      "expected": 8
+    },
+    {
+      "name": "medical suppression benefit",
+      "actual": 0.8,
+      "expected": 0.8
+    },
+    {
+      "name": "medical next turn expiry",
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "Don protects nearby ally",
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "Don does not protect self",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "Don aura range",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "Talia grants two tiles",
+      "actual": 2,
+      "expected": 2
+    },
+    {
+      "name": "Talia tiles consumed",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "Null first kill refund",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Null once per turn",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Vale damage grants two tiles",
+      "actual": 2,
+      "expected": 2
+    },
+    {
+      "name": "Vale refresh does not stack",
+      "actual": 2,
+      "expected": 2
+    },
+    {
+      "name": "Vale next own turn expiry",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "Voss flame direct damage multiplier",
+      "actual": 1.2,
+      "expected": 1.2
+    },
+    {
+      "name": "Voss flame suppression multiplier",
+      "actual": 1.25,
+      "expected": 1.25
+    },
+    {
+      "name": "Voss other weapon excluded",
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "Markov MG suppression",
+      "actual": 1.5,
+      "expected": 1.5
+    },
+    {
+      "name": "Null wounded damage",
+      "actual": 1.15,
+      "expected": 1.15
+    },
+    {
+      "name": "Null half health boundary",
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "Lucky native rough terrain",
+      "actual": 16,
+      "expected": 16
+    },
+    {
+      "name": "Lucky native ordinary terrain",
+      "actual": 10,
+      "expected": 10
+    },
+    {
+      "name": "Viper native walker movement",
+      "actual": 8,
+      "expected": 8
+    },
+    {
+      "name": "Lynx concealed immediate",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Lynx concealed preview",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Lynx detected immediate",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Lynx detected preview",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Darius first close damage",
+      "actual": 1.2,
+      "expected": 1.2
+    },
+    {
+      "name": "Darius first close suppression",
+      "actual": 1.25,
+      "expected": 1.25
+    },
+    {
+      "name": "Darius subsequent preview damage",
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "Darius committed first shot damage",
+      "actual": 1.2,
+      "expected": 1.2
+    },
+    {
+      "name": "Darius distant attack excluded",
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "Voss native pre-hit damage packet",
+      "actual": 120,
+      "expected": 120
+    },
+    {
+      "name": "Darius native pre-hit damage packet",
+      "actual": 120,
+      "expected": 120
+    },
+    {
+      "name": "Ash native pre-hit damage packet",
+      "actual": 110,
+      "expected": 110
+    },
+    {
+      "name": "Camila native pre-hit damage packet",
+      "actual": 115,
+      "expected": 115
+    },
+    {
+      "name": "Null native pre-hit damage packet",
+      "actual": 115,
+      "expected": 115
+    },
+    {
+      "name": "Caleb real ApplySuppression",
+      "actual": 2.3408003,
+      "expected": 2.3408003
+    },
+    {
+      "name": "Don real incoming damage properties",
+      "actual": 0.657,
+      "expected": 0.657
+    },
+    {
+      "name": "Talia native first tile",
+      "actual": 15,
+      "expected": 15
+    },
+    {
+      "name": "Talia native second tile",
+      "actual": 15,
+      "expected": 15
+    },
+    {
+      "name": "Talia native third tile",
+      "actual": 20,
+      "expected": 20
+    },
+    {
+      "name": "Talia real three tile path cost",
+      "actual": 50,
+      "expected": 50
+    },
+    {
+      "name": "Talia native budget cost clip=False",
+      "actual": 30,
+      "expected": 30
+    },
+    {
+      "name": "Talia native budget destination clip=False",
+      "actual": 2,
+      "expected": 2
+    },
+    {
+      "name": "Talia native path clipping clip=False",
+      "actual": 4,
+      "expected": 4
+    },
+    {
+      "name": "Movement query restored clip=False",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "Talia native budget cost clip=True",
+      "actual": 30,
+      "expected": 30
+    },
+    {
+      "name": "Talia native budget destination clip=True",
+      "actual": 2,
+      "expected": 2
+    },
+    {
+      "name": "Talia native path clipping clip=True",
+      "actual": 3,
+      "expected": 3
+    },
+    {
+      "name": "Movement query restored clip=True",
+      "actual": 0,
+      "expected": 0
+    }
+  ],
+  "caseCount": 104,
+  "nativeOnlyIsolatedMemory": true,
+  "audioMuted": true
+}

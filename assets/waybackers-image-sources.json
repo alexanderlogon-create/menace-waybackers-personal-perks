@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Ash",
+    "source": "exec-5204ac91-c04c-44cd-abbe-ef6ee2b78198.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/ash.png"
+  },
+  {
+    "name": "Bulk",
+    "source": "exec-ccdddeb7-61a8-4f12-8028-d0a893dc1ccb.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/bulk.png"
+  },
+  {
+    "name": "Caleb",
+    "source": "exec-13320d27-54aa-44d6-a84c-debd1d813750.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/caleb.png"
+  },
+  {
+    "name": "Camila",
+    "source": "exec-d702887e-4b9b-49ed-9775-b90014adacc8.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/camila.png"
+  },
+  {
+    "name": "Creed",
+    "source": "exec-3873f34b-30c6-4f2e-b1e2-b4e7ec1c926f.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/creed.png"
+  },
+  {
+    "name": "Crow",
+    "source": "exec-04ed4fd0-c9f7-40f0-8979-80b996ca34f3.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/crow.png"
+  },
+  {
+    "name": "Darius",
+    "source": "exec-f93c08c0-46f9-405b-9c2a-c5a3b24a36a9.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/darius.png"
+  },
+  {
+    "name": "Don",
+    "source": "exec-019218a4-2c99-43b9-b05d-42ac5b60976b.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/don.png"
+  },
+  {
+    "name": "Lucky",
+    "source": "exec-5ff23c30-5f75-479e-a009-5730bb47a6db.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/lucky.png"
+  },
+  {
+    "name": "Luo",
+    "source": "exec-15f6923a-e0a1-4b0c-9692-7f80d2fbaaa9.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/luo.png"
+  },
+  {
+    "name": "Lynx",
+    "source": "exec-2d06aa6b-737c-4c98-a7fa-521472e045a2.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/lynx.png"
+  },
+  {
+    "name": "Marcus",
+    "source": "exec-b3dd27af-ab04-4649-96de-7abf6859d169.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/marcus.png"
+  },
+  {
+    "name": "Markov",
+    "source": "exec-7a84f903-5c2a-41cd-bdb5-9f35bd264814.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/markov.png"
+  },
+  {
+    "name": "Null",
+    "source": "exec-56ff07d4-4b0a-4978-af5e-8fab0438fdea.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/null.png"
+  },
+  {
+    "name": "Rook",
+    "source": "exec-9785b5ff-e958-4b22-b04e-a7b25431d728.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/rook.png"
+  },
+  {
+    "name": "Sigrid",
+    "source": "exec-0bae135b-fbdf-490d-99f7-45187610b19a.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/sigrid.png"
+  },
+  {
+    "name": "Talia",
+    "source": "exec-b0fbacbd-1e44-4d1c-a7bf-e37bc8c7b2a5.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/talia.png"
+  },
+  {
+    "name": "Track",
+    "source": "exec-d79b3b7b-99bf-4b9f-97d8-31cc59467144.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/track.png"
+  },
+  {
+    "name": "Vale",
+    "source": "exec-faaa3f97-7037-4952-a47d-541ac094220b.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/vale.png"
+  },
+  {
+    "name": "Viper",
+    "source": "exec-b9d55c04-2981-43e3-a663-c4e12036dde2.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/viper.png"
+  },
+  {
+    "name": "Voss",
+    "source": "exec-40577b8d-e036-43fb-9c4b-3c75f5aeef16.png",
+    "target": "Mods/MenaceSnipersPromise/waybackers/voss.png"
+  }
+]

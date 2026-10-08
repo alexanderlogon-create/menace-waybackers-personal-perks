@@ -1,0 +1,194 @@
+[
+  {
+    "label": "unlearned sniper unchanged",
+    "accuracy": 60,
+    "moved": 0,
+    "result": 60,
+    "preview": 60,
+    "expected": 60
+  },
+  {
+    "label": "unlearned sniper has no floor",
+    "accuracy": 5,
+    "moved": 0,
+    "result": 5,
+    "preview": 5,
+    "expected": 5
+  },
+  {
+    "label": "primary stationary \u002B15",
+    "accuracy": 50,
+    "moved": 0,
+    "result": 65,
+    "preview": 65,
+    "expected": 65
+  },
+  {
+    "label": "primary stationary floor 30",
+    "accuracy": 5,
+    "moved": 0,
+    "result": 30,
+    "preview": 30,
+    "expected": 30
+  },
+  {
+    "label": "primary moved no \u002B15",
+    "accuracy": 50,
+    "moved": 1,
+    "result": 50,
+    "preview": 50,
+    "expected": 50
+  },
+  {
+    "label": "primary moved no floor",
+    "accuracy": 5,
+    "moved": 1,
+    "result": 5,
+    "preview": 5,
+    "expected": 5
+  },
+  {
+    "label": "primary next turn bonus returns",
+    "accuracy": 50,
+    "moved": 0,
+    "result": 65,
+    "preview": 65,
+    "expected": 65
+  },
+  {
+    "label": "primary next turn floor returns",
+    "accuracy": 5,
+    "moved": 0,
+    "result": 30,
+    "preview": 30,
+    "expected": 30
+  },
+  {
+    "label": "primary maximum 100",
+    "accuracy": 95,
+    "moved": 0,
+    "result": 100,
+    "preview": 100,
+    "expected": 100
+  },
+  {
+    "label": "special weapon unchanged",
+    "accuracy": 5,
+    "moved": 0,
+    "result": 5,
+    "preview": 5,
+    "expected": 5
+  },
+  {
+    "label": "sniper stationary exclusive \u002B10",
+    "accuracy": 60,
+    "moved": 0,
+    "result": 70,
+    "preview": 70,
+    "expected": 70
+  },
+  {
+    "label": "sniper stationary floor 50",
+    "accuracy": 5,
+    "moved": 0,
+    "result": 50,
+    "preview": 50,
+    "expected": 50
+  },
+  {
+    "label": "sniper moved no \u002B10",
+    "accuracy": 60,
+    "moved": 1,
+    "result": 60,
+    "preview": 60,
+    "expected": 60
+  },
+  {
+    "label": "sniper moved no floor",
+    "accuracy": 5,
+    "moved": 1,
+    "result": 5,
+    "preview": 5,
+    "expected": 5
+  },
+  {
+    "label": "sniper next turn bonus returns",
+    "accuracy": 60,
+    "moved": 0,
+    "result": 70,
+    "preview": 70,
+    "expected": 70
+  },
+  {
+    "label": "sniper next turn floor returns",
+    "accuracy": 5,
+    "moved": 0,
+    "result": 50,
+    "preview": 50,
+    "expected": 50
+  },
+  {
+    "label": "sniper maximum 100",
+    "accuracy": 95,
+    "moved": 0,
+    "result": 100,
+    "preview": 100,
+    "expected": 100
+  },
+  {
+    "label": "native rifle: specialweapon.rogue_army_sniper_rifle",
+    "accuracy": 60,
+    "moved": 0,
+    "result": 70,
+    "preview": 70,
+    "expected": 70
+  },
+  {
+    "label": "native rifle: specialweapon.sniper_rifle_sr41",
+    "accuracy": 60,
+    "moved": 0,
+    "result": 70,
+    "preview": 70,
+    "expected": 70
+  },
+  {
+    "label": "native rifle: specialweapon.sniper_rifle_tier1",
+    "accuracy": 60,
+    "moved": 0,
+    "result": 70,
+    "preview": 70,
+    "expected": 70
+  },
+  {
+    "label": "native rifle: specialweapon.sniper_rifle_tier3",
+    "accuracy": 60,
+    "moved": 0,
+    "result": 70,
+    "preview": 70,
+    "expected": 70
+  },
+  {
+    "label": "learned tier 3 primary still \u002B15",
+    "accuracy": 50,
+    "moved": 0,
+    "result": 65,
+    "preview": 65,
+    "expected": 65
+  },
+  {
+    "label": "learned tier 3 special still unchanged",
+    "accuracy": 5,
+    "moved": 0,
+    "result": 5,
+    "preview": 5,
+    "expected": 5
+  },
+  {
+    "label": "other leader unchanged",
+    "accuracy": 50,
+    "moved": 0,
+    "result": 50,
+    "preview": 50,
+    "expected": 50
+  }
+]

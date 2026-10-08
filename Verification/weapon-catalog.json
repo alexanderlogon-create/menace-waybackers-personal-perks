@@ -1,0 +1,1401 @@
+[
+  {
+    "id": "turret.construct_gunslinger_twin_heavy_auto_repeater",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_twin_heavy_auto_repeater_gunslinger"
+    ]
+  },
+  {
+    "id": "turret.construct_heavy_auto_repeater",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_heavy_auto_repeater"
+    ]
+  },
+  {
+    "id": "turret.construct_rocket_launcher",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.launch_construct_rocket"
+    ]
+  },
+  {
+    "id": "turret.construct_twin_heavy_auto_repeater",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_twin_heavy_auto_repeater"
+    ]
+  },
+  {
+    "id": "turret.multi_rocket_pod_gunslinger",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.launch_multi_rocket_pod_gunslinger"
+    ]
+  },
+  {
+    "id": "weapon.construct_flamethrower",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_flamethrower_stalker"
+    ]
+  },
+  {
+    "id": "weapon.construct_heavy_repeater",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_heavy_repeater"
+    ]
+  },
+  {
+    "id": "weapon.construct_heavy_repeater_phantom",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_heavy_repeater_phantom"
+    ]
+  },
+  {
+    "id": "weapon.construct_micro_repeater",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_micro_repeater"
+    ]
+  },
+  {
+    "id": "mod_weapon.heavy.cannon_long",
+    "slot": "ModularVehicleHeavy",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.shoot_apfsds_tank_gun_mgs",
+      "active.mod.twinfire.shoot_apfds_tank_gun_mgs"
+    ]
+  },
+  {
+    "id": "mod_weapon.heavy.cannon_short",
+    "slot": "ModularVehicleHeavy",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.shoot_short_cannon",
+      "active.mod.twinfire.shoot_short_cannon"
+    ]
+  },
+  {
+    "id": "mod_weapon.heavy.mortar",
+    "slot": "ModularVehicleHeavy",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.fire_120mm_mortar_autoloader",
+      "active.mod.launch_mortar_smoke_autoloader",
+      "active.mod.twinfire.fire_120mm_mortar_autoloader",
+      "active.mod.twinfire.launch_mortar_smoke_autoloader"
+    ]
+  },
+  {
+    "id": "mod_weapon.heavy.twin_hmg",
+    "slot": "ModularVehicleHeavy",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.twin_heavy_machinegun_suppressive",
+      "active.mod.twinfire.twin_heavy_machinegun_suppressive"
+    ]
+  },
+  {
+    "id": "mod_weapon.heavy.twin_minigun",
+    "slot": "ModularVehicleHeavy",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.twin_minigun_salvo",
+      "active.mod.twin_minigun_strafing",
+      "active.mod.twinfire.twin_minigun_salvo",
+      "active.mod.twinfire.twin_minigun_strafing"
+    ]
+  },
+  {
+    "id": "mod_weapon.light.anti_materiel_rifle",
+    "slot": "ModularVehicleLight",
+    "tags": [
+      "vehicle_weapon"
+    ],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.shoot_anti_materiel_rifle",
+      "active.mod.twinfire.shoot_anti_materiel_rifle"
+    ]
+  },
+  {
+    "id": "mod_weapon.light.auto_grenade_launcher",
+    "slot": "ModularVehicleLight",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.launch_frag_grenade_salvo_gmw",
+      "active.mod.twinfire.launch_frag_grenade_salvo_gmw"
+    ]
+  },
+  {
+    "id": "mod_weapon.light.chaingun",
+    "slot": "ModularVehicleLight",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.chaingun_salvo",
+      "active.mod.twinfire.chaingun_salvo"
+    ]
+  },
+  {
+    "id": "mod_weapon.light.flamethrower",
+    "slot": "ModularVehicleLight",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.shoot_flamethrower",
+      "active.mod.twinfire.shoot_flamethrower"
+    ]
+  },
+  {
+    "id": "mod_weapon.light.light_mg",
+    "slot": "ModularVehicleLight",
+    "tags": [
+      "vehicle_weapon"
+    ],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.light_machinegun",
+      "active.mod.twinfire.light_machinegun"
+    ]
+  },
+  {
+    "id": "mod_weapon.light.medium_mg",
+    "slot": "ModularVehicleLight",
+    "tags": [
+      "vehicle_weapon"
+    ],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.medium_machinegun_suppressive_fire",
+      "active.mod.twinfire.medium_machinegun_suppressive_fire"
+    ]
+  },
+  {
+    "id": "mod_weapon.light.plasma_rifle",
+    "slot": "ModularVehicleLight",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.shoot_plasma_rifle",
+      "active.mod.plasma_rifle.vent",
+      "active.mod.twinfire.shoot_plasma_rifle",
+      "active.mod.twinfire.plasma_rifle.vent"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.anti_tank_gun",
+    "slot": "ModularVehicleMedium",
+    "tags": [
+      "vehicle_weapon"
+    ],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.fire_anti_tank_gun_rgl",
+      "active.mod.twinfire.fire_anti_tank_gun_rgl"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.atgm_launcher",
+    "slot": "ModularVehicleMedium",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.atgm.direct_fire",
+      "active.mod.atgm.indirect_fire",
+      "active.mod.twinfire.atgm.direct_fire",
+      "active.mod.twinfire.atgm.indirect_fire"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.auto_laser",
+    "slot": "ModularVehicleMedium",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.fire_auto_laser",
+      "active.mod.auto_laser.vent",
+      "active.mod.twinfire.fire_auto_laser",
+      "active.mod.twinfire.auto_laser.vent"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.auto_laser_tier2",
+    "slot": "ModularVehicleMedium",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.fire_auto_laser_tier2",
+      "active.mod.auto_laser_tier2.vent",
+      "active.mod.twinfire.fire_auto_laser_tier2",
+      "active.mod.twinfire.auto_laser.vent_tier2"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.autocannon",
+    "slot": "ModularVehicleMedium",
+    "tags": [
+      "vehicle_weapon"
+    ],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.autocannon_salvo",
+      "active.mod.twinfire.autocannon_salvo"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.heavy_flamer",
+    "slot": "ModularVehicleMedium",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.heavy_flamethrower",
+      "active.mod.twinfire.heavy_flamethrower"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.heavy_mg",
+    "slot": "ModularVehicleMedium",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.single_heavy_machinegun_suppressive",
+      "active.mod.twinfire.single_heavy_machinegun_suppressive"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.laser_lance",
+    "slot": "ModularVehicleMedium",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.fire_laser_lance",
+      "active.mod.laser_lance.vent",
+      "active.mod.twinfire.fire_laser_lance",
+      "active.mod.twinfire.laser_lance.vent"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.laser_lance_tier2",
+    "slot": "ModularVehicleMedium",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.fire_laser_lance_tier2",
+      "active.mod.laser_lance.vent_tier2",
+      "active.mod.twinfire.fire_laser_lance_tier2",
+      "active.mod.twinfire.laser_lance.vent_tier2"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.minigun",
+    "slot": "ModularVehicleMedium",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.minigun_salvo",
+      "active.mod.minigun_strafing",
+      "active.mod.twinfire.minigun_salvo",
+      "active.mod.twinfire.minigun_strafing"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.rocket_launcher",
+    "slot": "ModularVehicleMedium",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.launch_rocket",
+      "active.mod.twinfire.launch_rocket"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.rocket_organ",
+    "slot": "ModularVehicleMedium",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.rocket_organ_barrage.fire",
+      "active.mod.rocket_organ_barrage.reload",
+      "active.mod.twinfire.rocket_organ_barrage.fire",
+      "active.mod.twinfire.rocket_organ_barrage.reload"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.scanner_ground_radar",
+    "slot": "ModularVehicleMedium",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.mod.motion_scanner_vehicle",
+      "active.mod.twinfire.motion_scanner_vehicle"
+    ]
+  },
+  {
+    "id": "mod_weapon.medium.swarm_airburst_launcher",
+    "slot": "ModularVehicleMedium",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_swarm_airburst_launcher"
+    ]
+  },
+  {
+    "id": "turret.construct_gunslinger_disruptor",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_disruptor_gunslinger"
+    ]
+  },
+  {
+    "id": "turret.construct_gunslinger_laser_rifle",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.laser_rifle_gunslinger"
+    ]
+  },
+  {
+    "id": "turret.construct_laser_lance",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.construct.fire_laser_lance",
+      "active.construct.laser_lance.vent"
+    ]
+  },
+  {
+    "id": "turret.local_forces_heavy_tank_01_15cm_howitzer",
+    "slot": "VehicleHeavyTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_HE_15cm_assault_howitzer"
+    ]
+  },
+  {
+    "id": "turret.medium_machinegun_heavy_tank",
+    "slot": "VehicleHeavyTurret",
+    "tags": [
+      "vehicle_weapon"
+    ],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.medium_machinegun_suppressive_fire"
+    ]
+  },
+  {
+    "id": "turret.pirate_heavy_flamethrower",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.pirate_heavy_flamethrower"
+    ]
+  },
+  {
+    "id": "turret.pirate_heavy_mg_truck_version",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.pirate_truck_version_turret_heavy_machinegun.suppressive"
+    ]
+  },
+  {
+    "id": "turret.pirate_laser_lance",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_laser_lance",
+      "active.laser_lance.vent"
+    ]
+  },
+  {
+    "id": "turret.pirate_medium_chaingun",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.chaingun_salvo"
+    ]
+  },
+  {
+    "id": "turret.pirate_rocket_organ",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.rocket_organ_barrage.fire",
+      "active.rocket_organ_barrage.reload"
+    ]
+  },
+  {
+    "id": "turret.walker_heavy_flamethrower",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.heavy_flamethrower_walker"
+    ]
+  },
+  {
+    "id": "turret.walker_twin_heavy_machine_gun",
+    "slot": "VehicleLightTurret",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.twin_heavy_machinegun_suppressive"
+    ]
+  },
+  {
+    "id": "construct.weapon.skirmisher_anti_tank_rifle",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_construct_anti_tank_rifle"
+    ]
+  },
+  {
+    "id": "specialweapon.airburst_grenade_launcher_XGr_20",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_airburst_grenade_launcher_xgr_20"
+    ]
+  },
+  {
+    "id": "specialweapon.anti_materiel_rifle_tier1",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_anti_materiel_rifle"
+    ]
+  },
+  {
+    "id": "specialweapon.crafted_maal_he_rocket_launcher",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_he_rocket_launcher"
+    ]
+  },
+  {
+    "id": "specialweapon.crafted_ndl_stun_bomb_launcher",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.launch_stun_bomb"
+    ]
+  },
+  {
+    "id": "specialweapon.flamethrower",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_flamethrower"
+    ]
+  },
+  {
+    "id": "specialweapon.generic_designated_marksman_rifle_tier1",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_dmr"
+    ]
+  },
+  {
+    "id": "specialweapon.generic_designated_marksman_rifle_tier2",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_dmr"
+    ]
+  },
+  {
+    "id": "specialweapon.generic_designated_marksman_rifle_tier3",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_dmr"
+    ]
+  },
+  {
+    "id": "specialweapon.grenade_launcher_gr331",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.launch_frag_grenade"
+    ]
+  },
+  {
+    "id": "specialweapon.grenade_launcher_tier3",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.launch_frag_grenade"
+    ]
+  },
+  {
+    "id": "specialweapon.infantry_automatic_rifle_tier2",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_automatic_rifle"
+    ]
+  },
+  {
+    "id": "specialweapon.light_machinegun_tier1_m10E",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.light_mg_suppressive_fire"
+    ]
+  },
+  {
+    "id": "specialweapon.light_machinegun_tier2_m320",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.light_mg_suppressive_fire"
+    ]
+  },
+  {
+    "id": "specialweapon.light_machinegun_tier2_m320_SOC",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.light_mg_suppressive_fire_suppressed"
+    ]
+  },
+  {
+    "id": "specialweapon.light_machinegun_tier3",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.light_mg_suppressive_fire"
+    ]
+  },
+  {
+    "id": "specialweapon.light_mortar",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.launch_light_mortar_frag",
+      "active.launch_mortar_smoke"
+    ]
+  },
+  {
+    "id": "specialweapon.medium_machinegun_tier1_cmg50",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.medium_mg_suppressive_fire"
+    ]
+  },
+  {
+    "id": "specialweapon.medium_machinegun_tier2_m80",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.medium_mg_suppressive_fire"
+    ]
+  },
+  {
+    "id": "specialweapon.medium_machinegun_tier3",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.medium_mg_suppressive_fire"
+    ]
+  },
+  {
+    "id": "specialweapon.mining_laser",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_mining_laser",
+      "active.vent_mining_laser"
+    ]
+  },
+  {
+    "id": "specialweapon.mining_laser_construct",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_mining_laser",
+      "active.vent_mining_laser"
+    ]
+  },
+  {
+    "id": "specialweapon.pirate_emp_rifle",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_emp_rifle"
+    ]
+  },
+  {
+    "id": "specialweapon.pirate_light_chaingun",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.pirate_infantry_chaingun_salvo"
+    ]
+  },
+  {
+    "id": "specialweapon.plasma_rifle",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_plasma",
+      "active.plasma_rifle.vent"
+    ]
+  },
+  {
+    "id": "specialweapon.rmc_rocket_launcher_tier2_L31",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.launch_rocket"
+    ]
+  },
+  {
+    "id": "specialweapon.rocket_launcher_tier1_pal",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.launch_rocket"
+    ]
+  },
+  {
+    "id": "specialweapon.rogue_army_sniper_rifle",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.aimed_shot"
+    ]
+  },
+  {
+    "id": "specialweapon.rpg_launcher_tier_1",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.launch_rpg_t1"
+    ]
+  },
+  {
+    "id": "specialweapon.rpg_launcher_tier_2",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.launch_rpg_t2"
+    ]
+  },
+  {
+    "id": "specialweapon.sniper_rifle_sr41",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.aimed_shot"
+    ]
+  },
+  {
+    "id": "specialweapon.sniper_rifle_tier1",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.aimed_shot"
+    ]
+  },
+  {
+    "id": "specialweapon.sniper_rifle_tier3",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.aimed_shot"
+    ]
+  },
+  {
+    "id": "specialweapon.tripod_anti_tank_gun_rgl",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.tripod_fire_anti_tank_gun_rgl",
+      "active.infantry_deploy_heavy_weapon",
+      "passive.encumbered"
+    ]
+  },
+  {
+    "id": "specialweapon.tripod_auto_grenade_launcher",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.tripod.launch_frag_grenade_salvo_gmw",
+      "active.infantry_deploy_heavy_weapon",
+      "passive.encumbered"
+    ]
+  },
+  {
+    "id": "specialweapon.tripod_autocannon",
+    "slot": "InfantrySpecial",
+    "tags": [
+      "deploy"
+    ],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.tripod_autocannon_salvo",
+      "active.infantry_deploy_heavy_weapon",
+      "passive.encumbered"
+    ]
+  },
+  {
+    "id": "specialweapon.tripod_heavy_machinegun",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.tripod_heavy_machinegun_suppressive_fire",
+      "active.infantry_deploy_heavy_weapon",
+      "passive.encumbered"
+    ]
+  },
+  {
+    "id": "specialweapon.tripod_laser_lance",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.tripod.fire_laser_lance",
+      "active.tripod.laser_lance.vent",
+      "active.infantry_deploy_heavy_weapon",
+      "passive.encumbered"
+    ]
+  },
+  {
+    "id": "specialweapon.tripod_medium_machinegun",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.medium_mg_suppressive_fire_tripod",
+      "active.infantry_deploy_heavy_weapon",
+      "passive.encumbered"
+    ]
+  },
+  {
+    "id": "specialweapon.tripod_medium_mortar_80mm",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.launch_medium_mortar_frag",
+      "active.infantry_deploy_heavy_weapon",
+      "passive.encumbered"
+    ]
+  },
+  {
+    "id": "specialweapon.tripod_minigun",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.tripod_minigun_salvo",
+      "active.tripod_minigun_strafing",
+      "active.infantry_deploy_heavy_weapon",
+      "passive.encumbered"
+    ]
+  },
+  {
+    "id": "specialweapon.tripod_rocketlauncher_atgm",
+    "slot": "InfantrySpecial",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.tripod_atgm.direct_fire",
+      "active.tripod_atgm.indirect_fire",
+      "active.infantry_deploy_heavy_weapon",
+      "passive.encumbered"
+    ]
+  },
+  {
+    "id": "weapon.alien_acid_spitter",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_acid_spitter"
+    ]
+  },
+  {
+    "id": "weapon.construct_acid_stalker",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_acid_stalker"
+    ]
+  },
+  {
+    "id": "weapon.construct_plasma_flamethrower",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_plasma_flamethrower"
+    ]
+  },
+  {
+    "id": "weapon.construct_plasma_rifle",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_plasma_construct"
+    ]
+  },
+  {
+    "id": "weapon.construct_plasma_rifle_soldier_t2",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_plasma_construct"
+    ]
+  },
+  {
+    "id": "weapon.construct_stalker_plasma_pdw",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_plasma_pdw_burst"
+    ]
+  },
+  {
+    "id": "weapon.crafted_enhanced_electro_magnetic_assault_rifle",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_em_enhanced_assault_rifle",
+      "active.fire_em_enhanced_assault_rifle_sustained_fire"
+    ]
+  },
+  {
+    "id": "weapon.generic_assault_rifle_tier1_ARC_762",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_assault_rifle_tier1_762",
+      "active.fire_assault_rifle_sustained_fire_tier1_762"
+    ]
+  },
+  {
+    "id": "weapon.generic_assault_rifle_tier1_ARC_762_ACC",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_assault_rifle_tier1_762",
+      "active.fire_assault_rifle_sustained_fire_tier1_762"
+    ]
+  },
+  {
+    "id": "weapon.generic_assault_rifle_tier1_ARC_762_CSP",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_assault_rifle_tier1_762",
+      "active.fire_assault_rifle_sustained_fire_tier1_762"
+    ]
+  },
+  {
+    "id": "weapon.generic_assault_rifle_tier1_ARC_762_SOCC",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_assault_rifle_tier1_762_suppressed",
+      "active.fire_assault_rifle_sustained_fire_tier1_762_suppressed"
+    ]
+  },
+  {
+    "id": "weapon.generic_assault_rifle_tier1_kpac",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_assault_rifle_tier1_556",
+      "active.fire_assault_rifle_sustained_fire_tier1_556"
+    ]
+  },
+  {
+    "id": "weapon.generic_assault_rifle_tier1_kpac_CQB",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_assault_rifle_tier_1_556_CQB",
+      "active.fire_assault_rifle_sustained_fire_tier1_556"
+    ]
+  },
+  {
+    "id": "weapon.generic_assault_rifle_tier1_kpac_grenade_launcher",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_assault_rifle_tier1_556",
+      "active.fire_assault_rifle_sustained_fire_tier1_556",
+      "active.launch_underbarrel_frag_grenade"
+    ]
+  },
+  {
+    "id": "weapon.generic_assault_rifle_tier1_kpac_RANGE",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_assault_rifle_tier1_556",
+      "active.fire_assault_rifle_sustained_fire_tier1_556"
+    ]
+  },
+  {
+    "id": "weapon.generic_assault_rifle_tier1_kpac_SOF",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_assault_rifle_tier1_556_suppressed",
+      "active.fire_assault_rifle_sustained_fire_tier1_556_suppressed"
+    ]
+  },
+  {
+    "id": "weapon.generic_assault_rifle_tier2",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_assault_rifle_rmc_mrs_556",
+      "active.fire_assault_rifle_sustained_fire_rmc_mrs_556"
+    ]
+  },
+  {
+    "id": "weapon.generic_assault_rifle_tier3_arx",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": []
+  },
+  {
+    "id": "weapon.generic_battle_rifle_tier1_crowbar",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_battle_rifle_tier_1",
+      "active.fire_battle_rifle_tier_1_spray"
+    ]
+  },
+  {
+    "id": "weapon.generic_battle_rifle_tier1_crowbar_carbine",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_battle_rifle_tier_1",
+      "active.fire_battle_rifle_tier_1_spray"
+    ]
+  },
+  {
+    "id": "weapon.generic_battle_rifle_tier1_crowbar_marksman",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_battle_rifle_tier_1",
+      "active.fire_battle_rifle_tier_1_aimed_fire_marksman"
+    ]
+  },
+  {
+    "id": "weapon.generic_battle_rifle_tier1_crowbar_sup",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_battle_rifle_tier_1_suppressed",
+      "active.fire_battle_rifle_tier_1_spray_suppressed"
+    ]
+  },
+  {
+    "id": "weapon.generic_battle_rifle_tier2_hamer",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_battle_rifle_tier_2",
+      "active.fire_battle_rifle_tier_2_aimed_fire"
+    ]
+  },
+  {
+    "id": "weapon.generic_battle_rifle_tier3_brx",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_battle_rifle_tier_2"
+    ]
+  },
+  {
+    "id": "weapon.generic_carbine_tier1_spc",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_lf_carbine_tier1"
+    ]
+  },
+  {
+    "id": "weapon.generic_combat_shotgun_tier_1_cs185",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_combat_shotgun_tier_1"
+    ]
+  },
+  {
+    "id": "weapon.generic_heavy_assault_rifle_tier2_har",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_heavy_assault_rifle_tier1"
+    ]
+  },
+  {
+    "id": "weapon.generic_heavy_smg_tier2_kruger_hmp",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_heavy_smg_tier_2_burst",
+      "active.fire_heavy_smg_tier_2_tap_fire"
+    ]
+  },
+  {
+    "id": "weapon.generic_pdw_tier1_scp",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_pdw_tier_1_burst",
+      "active.fire_pdw_tier_1_tap_fire"
+    ]
+  },
+  {
+    "id": "weapon.generic_smg_tier1_ppp",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_smg_tier1_burst",
+      "active.fire_smg_tier_1_tap_fire"
+    ]
+  },
+  {
+    "id": "weapon.generic_smg_tier1_ppp_HiCap",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_smg_hi_cap",
+      "active.fire_smg_tap_fire_hi_cap"
+    ]
+  },
+  {
+    "id": "weapon.generic_smg_tier1_ppp_sof",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_smg_tier_1_SOF_suppressed",
+      "active.fire_smg_tap_fire_suppressed"
+    ]
+  },
+  {
+    "id": "weapon.generic_smg_tier2_griffin",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_smg_tier_2_burst",
+      "active.fire_smg_tier_2_tap_fire"
+    ]
+  },
+  {
+    "id": "weapon.generic_smg_tier3_oktagon",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_smg_tier1_burst"
+    ]
+  },
+  {
+    "id": "weapon.laser_rifle",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.shoot_laser_rifle",
+      "active.laser_rifle.vent"
+    ]
+  },
+  {
+    "id": "weapon.pirate_assault_rifle",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_pirate_assault_rifle"
+    ]
+  },
+  {
+    "id": "weapon.pirate_corridor_sweeper",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_pirate_corridor_sweeper"
+    ]
+  },
+  {
+    "id": "weapon.pirate_outcast_pipe_gun",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_pirate_outcast_pipe_gun"
+    ]
+  },
+  {
+    "id": "weapon.pirate_pdw_tier_1",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_pirate_pdw"
+    ]
+  },
+  {
+    "id": "weapon.pirate_pdw_tier_1_captain",
+    "slot": "InfantryWeapon",
+    "tags": [],
+    "directSniper": false,
+    "indirectSniper": false,
+    "skills": [
+      "active.fire_pirate_pdw"
+    ]
+  }
+]

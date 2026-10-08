@@ -1,0 +1,22 @@
+{
+  "mode": "built-in image_gen",
+  "revision": "0.3.0-badges-v2",
+  "prompts": [
+    {
+      "name": "Luo",
+      "prompt": "Use case: precise-object-edit. Asset type: single MENACE game perk embroidered badge for Luo, By the Book. Input image is edit target. Redraw the insignia while retaining the same complete rounded shield shape, worn khaki stitched border, dark olive woven fabric, ivory and olive thread palette, open ivory book at bottom and restrained military doctrine theme. Replace ALL four malformed connected rifles and their chevron arrangement with EXACTLY TWO fully separate ivory embroidered assault rifles, in horizontal side profiles, one above the other in the upper half, both pointing right. Each rifle has its own uninterrupted straight barrel, muzzle, stock, grip and magazine. Clear generous dark fabric gaps between the two rifles and between book and weapons. No crossing, no touching, no shared barrels, no merged outlines, no extra weapon pieces. Every gun silhouette complete and easily readable at icon size. Preserve beautiful realistic embroidery texture. No text, watermark or scene. Entire single patch fully inside image with a transparent margin. Genuine transparent background outside the shield."
+    },
+    {
+      "name": "Lynx",
+      "prompt": "Use case: precise-object-edit. Asset type: single MENACE game perk embroidered badge for Lynx, Silent Observer. Input image is edit target. Retain the same worn khaki embroidered rounded shield border, dark olive charcoal cloth, alert lynx head with tufted ears and amber eyes, muted grey beige thread and green fern foliage. Correct the composition: the lynx has a CLOSED normal natural mouth and chin with no object touching, entering or aligned with its mouth. REMOVE the central vertical dagger completely. Place ONE small complete sheathed scout knife horizontally along the very bottom of the patch, below the foliage, handle on left and sheath on right; keep a broad clearly visible fabric/foliage gap below the lynx chin. The knife is a separate discreet equipment emblem, never in front of the face. Fully covered blade in sheath. Focus on watchful stealth animal portrait and fern camouflage. No suggestive positioning, no text, no watermark. Beautiful realistic embroidery, complete single shield inside image and transparent margin. Genuine transparent background outside patch."
+    },
+    {
+      "name": "Null",
+      "prompt": "Use case: precise-object-edit. Asset type: single MENACE embroidered game perk badge for Null, Settle the Account. Input image is edit target. Replace the composition with a more cruel, sadistic executioner themed symbolic emblem, retaining the exact worn khaki rounded shield border, dark olive cloth, realistic heavy ivory embroidery and muted crimson accents. REMOVE the book, all pages, wax seal and central sword. Subject: a menacing ivory grinning skull with harsh deep eye sockets, two separate hooked executioner knives crossing BEHIND the skull at a clear angle, and a curved strand of barbed wire below the skull. Tiny dark crimson thread accents on knife tips; symbolic insignia only, no bodies or wounds. The result should suggest ruthless cruelty rather than scholarly doctrine. Strong uncluttered silhouette, well formed knife blades with visible distinct handles, small game UI readability. No book anywhere, no text, no logos, no watermark. Entire single patch visible with transparent margin. Genuine transparent background outside the patch."
+    },
+    {
+      "name": "Rook",
+      "prompt": "Use case: precise-object-edit. Asset type: single MENACE embroidered game perk badge for Rook, Combat Driver. Input image is edit target. Change ONLY the steering wheel: completely remove the large round steering-wheel emblem currently in front of the armored vehicle grille and replace that area with a natural complete front grille and straight horizontal armored bumper. No circles, wheels or circular emblems on the FRONT of the vehicle. Retain the armored truck seen front-on, its normal side tires, silver ivory chess rook behind it, muted navy blue outlining, dark olive cloth and weathered khaki shield border. Maintain exactly the same shield composition, realistic embroidered stitching, palette, framing and proportions. No text, watermark or extra symbols. Entire single shield patch visible with margin. Preserve genuine transparent background outside the shield."
+    }
+  ]
+}
